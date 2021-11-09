@@ -1,7 +1,7 @@
 {
   "name": "mathskills",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
+  "version": "1.0.0",
+  "author": "Allycia Faith Karnagi",
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
@@ -35,5 +35,5 @@
     "@ionic/app-scripts": "3.1.9",
     "typescript": "~2.6.2"
   },
-  "description": "An Ionic project"
+  "description": "A math skills app made by Allycia"
 }

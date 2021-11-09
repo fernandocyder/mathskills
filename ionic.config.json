@@ -1,6 +1,6 @@
 {
   "name": "Math Skills",
-  "app_id": "",
+  "app_id": "com.allycia.mathskills",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
